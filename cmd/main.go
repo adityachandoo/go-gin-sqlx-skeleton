@@ -1,8 +1,8 @@
 package main
 
 import (
-	"ginx/pkg/books"
-	"ginx/pkg/common/db"
+	"github.com/adityachandoo/go-gin-sqlx-skeleton/pkg/books"
+	"github.com/adityachandoo/go-gin-sqlx-skeleton/pkg/common/db"
 
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/viper"
